@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SamBennettDev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/SamBennettDev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/SamBennettDev/LeetCode/tree/master/0392-is-subsequence) |
 ## Array
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SamBennettDev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SamBennettDev/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -46,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SamBennettDev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/SamBennettDev/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
