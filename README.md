@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SamBennettDev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/SamBennettDev/LeetCode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/SamBennettDev/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SamBennettDev/LeetCode/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SamBennettDev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/SamBennettDev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/SamBennettDev/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SamBennettDev/LeetCode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SamBennettDev/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SamBennettDev/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
