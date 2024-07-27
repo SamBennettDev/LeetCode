@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SamBennettDev/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SamBennettDev/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SamBennettDev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0228-summary-ranges](https://github.com/SamBennettDev/LeetCode/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/SamBennettDev/LeetCode/tree/master/0289-game-of-life) |
 ## Dynamic Programming
 |  |
