@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SamBennettDev/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/SamBennettDev/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SamBennettDev/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SamBennettDev/LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SamBennettDev/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/SamBennettDev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
