@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SamBennettDev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamBennettDev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SamBennettDev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SamBennettDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/SamBennettDev/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SamBennettDev/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SamBennettDev/LeetCode/tree/master/0198-house-robber) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SamBennettDev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SamBennettDev/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SamBennettDev/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SamBennettDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SamBennettDev/LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SamBennettDev/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SamBennettDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
 | ------- |
