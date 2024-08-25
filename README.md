@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SamBennettDev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/SamBennettDev/LeetCode/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/SamBennettDev/LeetCode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/SamBennettDev/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SamBennettDev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/SamBennettDev/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/SamBennettDev/LeetCode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/SamBennettDev/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/SamBennettDev/LeetCode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/SamBennettDev/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Stack
 |  |
 | ------- |
