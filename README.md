@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/SamBennettDev/LeetCode/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/SamBennettDev/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/SamBennettDev/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1253-sort-the-matrix-diagonally](https://github.com/SamBennettDev/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1539-diagonal-traverse-ii](https://github.com/SamBennettDev/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SamBennettDev/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SamBennettDev/LeetCode/tree/master/0242-valid-anagram) |
+| [1253-sort-the-matrix-diagonally](https://github.com/SamBennettDev/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1539-diagonal-traverse-ii](https://github.com/SamBennettDev/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 ## Counting
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SamBennettDev/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/SamBennettDev/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/SamBennettDev/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1253-sort-the-matrix-diagonally](https://github.com/SamBennettDev/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 ## Binary Search
 |  |
 | ------- |
