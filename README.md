@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SamBennettDev/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/SamBennettDev/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/SamBennettDev/LeetCode/tree/master/2722-prime-in-diagonal) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SamBennettDev/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
