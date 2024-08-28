@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SamBennettDev/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SamBennettDev/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SamBennettDev/LeetCode/tree/master/0207-course-schedule) |
+| [0871-keys-and-rooms](https://github.com/SamBennettDev/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SamBennettDev/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SamBennettDev/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SamBennettDev/LeetCode/tree/master/0207-course-schedule) |
+| [0871-keys-and-rooms](https://github.com/SamBennettDev/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SamBennettDev/LeetCode/tree/master/0207-course-schedule) |
+| [0871-keys-and-rooms](https://github.com/SamBennettDev/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
