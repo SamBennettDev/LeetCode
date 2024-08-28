@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/SamBennettDev/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SamBennettDev/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1539-diagonal-traverse-ii](https://github.com/SamBennettDev/LeetCode/tree/master/1539-diagonal-traverse-ii) |
+| [2722-prime-in-diagonal](https://github.com/SamBennettDev/LeetCode/tree/master/2722-prime-in-diagonal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SamBennettDev/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SamBennettDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SamBennettDev/LeetCode/tree/master/0189-rotate-array) |
+| [2722-prime-in-diagonal](https://github.com/SamBennettDev/LeetCode/tree/master/2722-prime-in-diagonal) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/SamBennettDev/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/SamBennettDev/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SamBennettDev/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [2722-prime-in-diagonal](https://github.com/SamBennettDev/LeetCode/tree/master/2722-prime-in-diagonal) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1539-diagonal-traverse-ii](https://github.com/SamBennettDev/LeetCode/tree/master/1539-diagonal-traverse-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/SamBennettDev/LeetCode/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
