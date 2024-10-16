@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/SamBennettDev/LeetCode/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/SamBennettDev/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/SamBennettDev/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0945-snakes-and-ladders](https://github.com/SamBennettDev/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SamBennettDev/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1539-diagonal-traverse-ii](https://github.com/SamBennettDev/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [2722-prime-in-diagonal](https://github.com/SamBennettDev/LeetCode/tree/master/2722-prime-in-diagonal) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SamBennettDev/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/SamBennettDev/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/SamBennettDev/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0945-snakes-and-ladders](https://github.com/SamBennettDev/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1253-sort-the-matrix-diagonally](https://github.com/SamBennettDev/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2722-prime-in-diagonal](https://github.com/SamBennettDev/LeetCode/tree/master/2722-prime-in-diagonal) |
 ## Binary Search
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SamBennettDev/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SamBennettDev/LeetCode/tree/master/0207-course-schedule) |
 | [0871-keys-and-rooms](https://github.com/SamBennettDev/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/SamBennettDev/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |
