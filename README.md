@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SamBennettDev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/SamBennettDev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/SamBennettDev/LeetCode/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/SamBennettDev/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SamBennettDev/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SamBennettDev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamBennettDev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SamBennettDev/LeetCode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/SamBennettDev/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SamBennettDev/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/SamBennettDev/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/SamBennettDev/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SamBennettDev/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/SamBennettDev/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/SamBennettDev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
